@@ -22,12 +22,8 @@ This project demonstrates the setup and configuration of an Elastic Stack SIEM i
 - <b>Nmap & Network Security Monitoring</b>  
 
 <h2>Program walk-through:</h2>
+Project Notes Coming Soon
 
-<p align="center">
-Launch the utility: <br/>
-<img src="/>
-<br />
-<br />
 
 
 <!--
