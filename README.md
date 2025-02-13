@@ -3,15 +3,15 @@
 
 
 <h2>Description</h2>
-Put it in here
+This project demonstrates the setup and configuration of an Elastic Stack SIEM in a home lab environment for security event monitoring and analysis. By deploying a Kali Linux VM for attack simulation and configuring Elastic Agents for log collection, I gained hands-on experience in threat detection, network security monitoring, and incident response.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
+- <b>Virtual Box</b> 
+- <b>Kali Linux</b>
+- <b>Elastic Stack</b>
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
