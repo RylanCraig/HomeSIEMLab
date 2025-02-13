@@ -17,9 +17,13 @@ This project demonstrates the setup and configuration of an Elastic Stack SIEM i
 - <b>Windows 11</b> (21H2)
   
 <h2>Key Features </h2>
-- Elastic Stack SIEM Configuration: Deployed and configured Elastic Stack for centralized log collection and security monitoring.
+- <b>Elastic Stack SIEM Configuration</b> Deployed and configured Elastic Stack for centralized log collection and security monitoring
+- <b>Kali Linux</b>
+- <b>Elastic Stack</b>
+
 - Security Event Simulation & Analysis: Conducted Nmap scans from a Kali Linux VM to generate security events and analyzed logs using Elastic SIEM.
 - Custom SIEM Dashboard & Alerts: Built a real-time dashboard to visualize security events and created custom alert rules for proactive threat detection.
+<br/>
 
 <h2>Program walk-through:</h2>
 
