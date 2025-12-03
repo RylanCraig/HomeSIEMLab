@@ -32,3 +32,30 @@ This lab focuses on building hands-on experience in SIEM operations, log analysi
 
 ## 📂 Lab Architecture
 
+
+
+*A full architecture diagram will be added soon.*
+
+---
+
+## 🧪 Step-by-Step Summary
+
+### **1. Azure Setup**
+- Created Azure subscription  
+- Configured Log Analytics Workspace  
+- Enabled Microsoft Sentinel  
+
+### **2. Honeypot Virtual Machine**
+- Deployed Windows 10 VM
+- Allowed all inbound traffic via Network Security Group  
+- Disabled Windows Firewall for testing  
+- Generated failed login attempts  
+
+### **3. Log Collection Configuration**
+- Installed AMA agent  
+- Enabled **Windows Security Events (via AMA)** data connector  
+- Confirmed logs flowing into Log Analytics Workspace  
+
+### **4. KQL Threat Hunting Queries**
+
+
