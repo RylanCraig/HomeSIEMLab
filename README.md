@@ -50,7 +50,7 @@ This lab focuses on building hands-on experience in SIEM operations, log analysi
 
 ---
 
-## 🧪 Step-by-Step Summary
+## 💻 Step-by-Step Summary
 
 ### **1. Azure Setup**
 - Created Azure subscription  
