@@ -2,36 +2,36 @@
 
 
 
-<h2>Description</h2>
-This project demonstrates the setup and configuration of an Elastic Stack SIEM in a home lab environment for security event monitoring and analysis. By deploying a Kali Linux VM for attack simulation and configuring Elastic Agents for log collection, I gained hands-on experience in threat detection, network security monitoring, and incident response.
-<br />
+# Azure Sentinel Home SIEM Lab
 
-<h2>Key Features </h2>
+## 📌 Description
+This project demonstrates the creation of a cloud-based **Azure Sentinel SIEM** environment paired with a Windows 10 **honeypot virtual machine** used to collect, analyze, and visualize real-world security events.  
+This lab focuses on building hands-on experience in SIEM operations, log analysis, threat detection, and cloud-based monitoring.
 
-- <b>Elastic Stack SIEM configuration:</b> Deployed and configured Elastic Stack for centralized log collection and security monitoring.
-- <b>Security Event Simulation & Analysis:</b> Conducted Nmap scans from a Kali Linux VM to generate security events and analyzed logs using Elastic SIEM.
-- <b>Custom SIEM Dashboard & Alerts:</b> Built a real-time dashboard to visualize security events and created custom alert rules for proactive threat detection.
+---
 
+## 🔥 Key Features
 
+- **Windows 10 Honeypot:** Deployed a publicly exposed VM to intentionally attract failed login attempts and suspicious activity.
+- **Centralized Log Collection:** Configured Azure Log Analytics Workspace to ingest Windows Security Events.
+- **Microsoft Sentinel SIEM:** Set up for live monitoring, alerting, and security event analysis.
+- **KQL Threat Hunting:** Queried failed login attempts (Event ID 4625) and analyzed attacker behavior.
+- **Geo-IP Log Enrichment:** Imported a custom IP geolocation watchlist to correlate attacker IPs with their geographic origin.
+- **Interactive Attack Map:** Built a real-time map that visualizes where global login attempts are coming from.
 
-<h2>Technology Used</h2>
+---
 
-- <b>Virtual Box</b> 
-- <b>Kali Linux</b>
-- <b>Elastic Stack</b>
-- <b>Nmap & Network Security Monitoring</b>  
+## 🛠️ Technology Used
 
-<h2>Program walk-through:</h2>
-Project Notes Coming Soon
+- **Azure Virtual Machine (Windows 10)**
+- **Azure Log Analytics Workspace**
+- **Microsoft Sentinel**
+- **Azure Data Collection Rules (AMA)**
+- **Kusto Query Language (KQL)**
+- **Azure Watchlists**
+- **Sentinel Workbooks**
 
+---
 
+## 📂 Lab Architecture
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
