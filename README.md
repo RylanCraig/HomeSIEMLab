@@ -43,10 +43,10 @@ This lab focuses on building hands-on experience in SIEM operations, log analysi
 ---
 
 ## 📂 Lab Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/228f7220-63d5-44e4-83a0-76162f795c97" />
 
 
 
-*A full architecture diagram will be added soon.*
 
 ---
 
