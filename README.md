@@ -18,6 +18,18 @@ This lab focuses on building hands-on experience in SIEM operations, log analysi
 
 ---
 
+## 🧠 Skills Demonstrated
+- Cloud SIEM configuration (Azure Sentinel)
+- Log ingestion & data connectors
+- Kusto Query Language (KQL)
+- Threat hunting & failed login analysis (Event ID 4625)
+- Windows Security Event monitoring
+- Geo-IP log enrichment using Watchlists
+- Building SIEM dashboards & attack map visualizations
+- SOC investigation workflow & documentation
+
+---
+
 ## 🛠️ Technology Used
 
 - **Azure Virtual Machine (Windows 10)**
