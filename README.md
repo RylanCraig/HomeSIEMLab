@@ -1,6 +1,3 @@
-<h1>Azure Sentinel Home SIEM Lab</h1>
-
-
 
 # Azure Sentinel Home SIEM Lab
 
