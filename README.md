@@ -43,17 +43,21 @@ This lab focuses on building hands-on experience in SIEM operations, log analysi
 ---
 
 ## 📂 Lab Architecture
+
 Below is the architecture diagram representing the Azure Sentinel SIEM Honeypot environment:
 
 <p align="center">
-  <img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/1808c23c-eb02-4346-8ac3-80b77a2a2022" />
+  <img 
+       src="https://github.com/user-attachments/assets/1808c23c-eb02-4346-8ac3-80b77a2a2022"
+       alt="Azure Sentinel SIEM Honeypot Architecture"
+       width="900">
 </p>
 
 
 
 ---
 
-## 💻 Step-by-Step Summary
+## 💻 Step-by-Step Lab Guide 
 
 ### **1. Azure Setup**
 - Created an Azure account to deploy the lab environment  
