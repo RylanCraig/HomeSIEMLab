@@ -65,8 +65,10 @@ Below is the architecture diagram representing the Azure Sentinel SIEM Honeypot 
        alt="Azure Sentinel Architecture Diagram"
        width="900">
 </p>
+
 - Configured Log Analytics Workspace  
-- Enabled Microsoft Sentinel  
+- Enabled Microsoft Sentinel
+
 
 ### **2. Honeypot Virtual Machine**
 - Deployed Windows 10 VM
