@@ -51,13 +51,20 @@ Below is the architecture diagram representing the Azure Sentinel SIEM Honeypot 
 
 
 
-
 ---
 
 ## 💻 Step-by-Step Summary
 
 ### **1. Azure Setup**
-- Created Azure subscription  
+- Created an Azure account to deploy the lab environment  
+  👉 [Create your Azure account](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/796652a7-823f-467a-9f2e-86cb6e500c85"
+       alt="Azure account creation screenshot"
+       width="850">
+</p>
+
 - Configured Log Analytics Workspace  
 - Enabled Microsoft Sentinel  
 
