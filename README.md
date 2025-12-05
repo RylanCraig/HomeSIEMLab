@@ -60,11 +60,11 @@ Below is the architecture diagram representing the Azure Sentinel SIEM Honeypot 
   👉 [Create your Azure account](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/796652a7-823f-467a-9f2e-86cb6e500c85"
-       alt="Azure account creation screenshot"
-       width="850">
+  <img 
+       src="https://github.com/user-attachments/assets/5cffaa3b-f13a-43be-82b4-54e8482f6fe8"
+       alt="Azure Sentinel Architecture Diagram"
+       width="900">
 </p>
-
 - Configured Log Analytics Workspace  
 - Enabled Microsoft Sentinel  
 
